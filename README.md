@@ -1,2 +1,2 @@
 # DTS
-TEST
+TEST_CSH
